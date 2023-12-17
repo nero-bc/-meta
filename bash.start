@@ -1,3 +1,0 @@
-python3 -m TelegramBot
-pip3 install google-api-python-client google-auth-httplib2 google-auth-oauthlib
-python3 token_generator.py 
