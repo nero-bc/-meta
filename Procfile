@@ -1,1 +1,1 @@
-worker: python3 -m TelegramBot
+worker: python3 -m start
