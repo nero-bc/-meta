@@ -1,1 +1,1 @@
-worker: python2 -m TelegramBot
+worker: python3 -m TelegramBot
