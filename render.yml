@@ -1,0 +1,3 @@
+build:
+  buildCommand: your-custom-build-command
+  buildback: https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
