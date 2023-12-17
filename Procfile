@@ -1,1 +1,1 @@
-worker: python3 -m TelegramBot && python3 token_generator.py
+worker: python2 -m TelegramBot
